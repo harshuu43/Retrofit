@@ -26,8 +26,8 @@
                 android:hint="Full Name"
                 android:imeOptions="actionNext"
                 android:inputType="text"
-                android:paddingBottom="15dp"
                 android:paddingLeft="5dp"
+                android:paddingBottom="15dp"
                 android:singleLine="true"
                 android:textColor="#000"
                 android:textColorHint="#000" />
@@ -41,8 +41,8 @@
                 android:hint="Email Address"
                 android:imeOptions="actionNext"
                 android:inputType="textEmailAddress"
-                android:paddingBottom="15dp"
                 android:paddingLeft="5dp"
+                android:paddingBottom="15dp"
                 android:singleLine="true"
                 android:textColor="#000"
                 android:textColorHint="#000" />
@@ -56,8 +56,8 @@
                 android:hint="Password"
                 android:imeOptions="actionDone"
                 android:inputType="textPassword"
-                android:paddingBottom="15dp"
                 android:paddingLeft="5dp"
+                android:paddingBottom="15dp"
                 android:singleLine="true"
                 android:textColor="#000"
                 android:textColorHint="#000" />
